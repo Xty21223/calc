@@ -15,7 +15,7 @@
     justify-content: center;
 }
 .calculator{
-    background: #3a4452;
+    background: #3a4492;
     padding: 20px;
     border-radius: 10px;
 }
@@ -28,7 +28,7 @@
     box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1),5px 5px 15px rgba(0, 0, 0, 0.2);
     background: transparent;
     font-size: 20px;
-    color: #fff;
+    color: #fff0;
     cursor: pointer;
     margin: 10px;
 }
